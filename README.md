@@ -1,4 +1,4 @@
-In Memory property graph database and database manager.
+In Memory property graph database and database manager with AI prediction and abilities.
 
 Everymind includes interface and tools to create all necessary schemas, libraries, mindsets, updates, serialization, re-ification and many other graph management functions.
 
